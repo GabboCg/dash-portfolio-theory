@@ -222,4 +222,3 @@ xyzservices==2022.1.1
 yapf==0.32.0
 yfinance==0.1.70
 zipp==3.7.0
-zstandard==0.17.0
