@@ -100,4 +100,4 @@ def update_figure(tickers, start_date, end_date, interval, rfree, n_clicks):
         return(fig1, fig2, fig3) 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server(debug=False, host='0.0.0.0', port=8050)
