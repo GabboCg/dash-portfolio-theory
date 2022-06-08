@@ -221,4 +221,3 @@ XlsxWriter==3.0.3
 xyzservices==2022.1.1
 yapf==0.32.0
 yfinance==0.1.70
-zipp==3.7.0
