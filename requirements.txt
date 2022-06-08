@@ -37,7 +37,6 @@ dash-core-components==2.0.0
 dash-extensions==0.0.18
 dash-html-components==2.0.0
 dash-table==5.0.0
-dataclasses==0.8
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
@@ -159,9 +158,6 @@ PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent==0.18.1
 PySocks==1.7.1
-python-dateutil==2.8.2
-python-jsonrpc-server==0.4.0
-python-language-server==0.36.2
 pytz==2021.3
 pyxdg==0.27
 PyYAML==6.0
